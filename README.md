@@ -1,1 +1,1 @@
-# finaindia
+# finindia
