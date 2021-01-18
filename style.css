@@ -18,12 +18,11 @@ a:hover {
 body {
  
   background-image: linear-gradient(rgba(0, 0, 0, 0.72), rgba(0, 0, 0, 0.1)),
-    url(pexels-pixabay-259165.jpg);
+    url(pexels.jpg);
   background-attachment: fixed;
   background-size: cover;
 }
-.navbar {
- 
+.navbar { 
   position: fixed;
   top: 55px;
   left: 120px;
